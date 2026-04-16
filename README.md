@@ -181,12 +181,6 @@ Abra o notebook no **Vertex AI Workbench**, **Colab Enterprise** ou localmente e
 
 ---
 
-## 🧠 Uso de IA Assistiva
-
-Partes do código foram aceleradas com auxílio do Claude (Anthropic). Toda interpretação estatística, raciocínio analítico, insights e recomendações de negócio são de autoria própria. O uso de IA está explicitamente indicado no cabeçalho do notebook.
-
----
-
 ## 📌 Limitações e Próximos Passos
 
 - A análise utiliza amostra dos últimos 2 anos disponíveis — recomenda-se validar com base completa
