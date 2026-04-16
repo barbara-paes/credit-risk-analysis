@@ -1,7 +1,7 @@
 # credit-risk-analysis
 Análise estatística de inadimplência em crédito P2P com Python, BigQuery. Inclui testes de hipótese, regressão logística e framework de validação de LLMs para dados financeiros.
 # 📊 Credit Risk Analysis — Lending Club Dataset
-
+Link : https://www.kaggle.com/datasets/wordsforthewise/lending-club?resource=download&select=rejected_2007_to_2018Q4.csv.gz
 Análise estatística de inadimplência em carteiras de crédito P2P, com pipeline de dados no Google Cloud Platform, dashboard self-service e framework de validação de respostas de IA Generativa.
 
 ---
