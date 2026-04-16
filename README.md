@@ -7,7 +7,7 @@ Análise estatística de inadimplência em carteiras de crédito P2P, com pipeli
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 credit-risk-analysis/
@@ -19,7 +19,7 @@ credit-risk-analysis/
 
 ---
 
-## 🎯 Problema de Negócio
+## Problema de Negócio
 
 Este projeto endereça três desafios reais de fintechs de crédito:
 
@@ -43,7 +43,7 @@ Contém dados reais de empréstimos P2P (2007–2018Q4) com informações de:
 
 ---
 
-## 🏗️ Arquitetura GCP
+## Arquitetura GCP
 
 ```
 CSV (Kaggle / Cloud Storage)
@@ -142,19 +142,6 @@ Fase 4 · Monitoramento  → dashboard semanal de qualidade do agente
 - Implementação do score de confiança em Python
 - Calendário de revisão recorrente (diário → semanal → mensal → trimestral)
 - KPIs de qualidade do agente em SQL (BigQuery)
-
----
-
-## 📊 Dashboard — Looker Studio
-
-O dashboard foi estruturado em 4 páginas conectadas ao BigQuery:
-
-| Página | Audiência | Conteúdo |
-|--------|-----------|----------|
-| 1 · Visão Executiva | C-Level | KPIs da carteira, evolução trimestral, mix de grade |
-| 2 · Risco e Inadimplência | Head de Risco | Inadimplência por grade, heatmap grade × finalidade, DTI × default |
-| 3 · Perfil do Tomador | Time Comercial | FICO por grade, inadimplência por finalidade, mapa geográfico |
-| 4 · Self-Service Explorer | Todas as áreas | Tabela pivô configurável, filtros interativos, glossário |
 
 ---
 
